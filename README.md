@@ -22,5 +22,6 @@
 
 ### Input
 Input was generated using [Straw] to extract flattened matrix from .hic files generated with [HiC-Pro].
+
 [Straw]: https://github.com/aidenlab/straw
 [HiC-Pro]: https://github.com/nservant/HiC-Pro
