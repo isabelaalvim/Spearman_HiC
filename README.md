@@ -19,3 +19,8 @@
 - compare_straw_files_sparse.py: adjusted for sparse data
 - check_sparsity.py: check if the data of each window is too sparse
 - make_toy_hicdata.py: make not sparse toy data
+
+### Input
+Input was generated using [Straw] to extract flattened matrix from .hic files generated with [HiC-Pro].
+[Straw]: https://github.com/aidenlab/straw
+[HiC-Pro]: https://github.com/nservant/HiC-Pro
