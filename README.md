@@ -2,8 +2,10 @@
 
 ### References:
 [Reconstructing the 3D genome organization of Neanderthals reveals that chromatin folding shaped phenotypic and sequence divergence]
+
 [Machine learning reveals the diversity of human 3D
 2 chromatin contact patterns]
+
 [Reconstructing the 3D genome organization of Neanderthals reveals that chromatin folding shaped phenotypic and sequence divergence]: https://www.biorxiv.org/content/10.1101/2022.02.07.479462v1.full
 [Machine learning reveals the diversity of human 3D
 2 chromatin contact patterns]: https://www.biorxiv.org/content/10.1101/2023.12.22.573104v1
