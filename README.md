@@ -14,4 +14,6 @@
 - compare_straw_files.py: Spearman's correlation for genomic windows
 - compare_straw_files_sparse.py: adjusted for sparse data
 - capra_spearman_mydata.py: Spearman calculated in a similar way to Capra Neanderthals 3D paper
+- compare_straw_files_sparse.py: adjusted for sparse data
 - check_sparsity.py: check if the data of each window is too sparse
+- make_toy_hicdata.py: make not sparse toy data
